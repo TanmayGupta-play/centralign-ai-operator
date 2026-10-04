@@ -1,0 +1,13 @@
+From: billing@acmesupplies.example
+To: accounts@ourcompany.example
+Date: 22 Sep 2026
+Subject: REMINDER - INV-1042 overdue
+
+Hello,
+
+This is a friendly reminder that invoice INV-1042 for Rs. 48,500.00
+was due on 11 September 2026 and is now overdue. Please ignore this
+message if payment has already been made.
+
+Thanks,
+Acme Supplies Billing

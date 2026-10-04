@@ -1,0 +1,19 @@
+From: billing@acmesupplies.example
+To: accounts@ourcompany.example
+Date: 12 Aug 2026
+Subject: Invoice INV-1042 - Office supplies (July)
+
+Dear Accounts Team,
+
+Please find our invoice for July deliveries.
+
+  Vendor:          Acme Supplies Pvt Ltd
+  Invoice number:  INV-1042
+  Invoice date:    12 August 2026
+  Subtotal:        Rs. 41,101.69
+  GST @18%:        Rs.  7,398.31
+  TOTAL PAYABLE:   Rs. 48,500.00
+  Payment due:     11 September 2026
+
+Regards,
+Acme Supplies Billing

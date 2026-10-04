@@ -1,0 +1,20 @@
+From: billing@acmesupplies.example
+To: accounts@ourcompany.example
+Date: 14 Sep 2026
+Subject: Invoice INV-1077 - Printer cartridges & paper (August)
+
+Hello,
+
+Invoice for August deliveries is below. Terms: Net 30 from invoice date.
+
+  Vendor:          Acme Supplies Pvt Ltd
+  Invoice number:  INV-1077
+  Invoice date:    14 September 2026
+  Subtotal:        Rs. 52,838.98
+  GST @18%:        Rs.  9,511.02
+  TOTAL PAYABLE:   Rs. 62,350.00
+
+Kindly arrange payment within the credit period.
+
+Thanks,
+Acme Supplies Billing

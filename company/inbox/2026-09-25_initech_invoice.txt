@@ -1,0 +1,15 @@
+From: finance@initech.example
+To: accounts@ourcompany.example
+Date: 25 Sep 2026
+Subject: Initech invoice IN-5531
+
+Hi team,
+
+Attached is invoice IN-5531 for the September consulting hours.
+Due date: 15 October 2026.
+
+The amount is as per the attached timesheet (attachment not included in
+this export).
+
+Best,
+Initech Finance

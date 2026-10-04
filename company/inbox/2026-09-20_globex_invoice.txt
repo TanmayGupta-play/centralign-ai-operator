@@ -1,0 +1,17 @@
+From: ar@globex.example
+To: accounts@ourcompany.example
+Date: 20 Sep 2026
+Subject: Globex invoice GX-88213 - Annual maintenance contract
+
+Dear Customer,
+
+  Vendor:          Globex Corporation
+  Invoice no.:     GX-88213
+  Invoice date:    2026-09-20
+  Description:     Annual maintenance contract, FY 2026-27
+  Amount:          INR 1,05,084.75
+  IGST 18%:        INR 18,915.25
+  Grand total:     INR 1,24,000.00
+  Due date:        20/10/2026 (DD/MM/YYYY)
+
+Globex Accounts Receivable
